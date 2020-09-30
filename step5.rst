@@ -8,8 +8,8 @@
 
 
 
-Logging into Sonora Discovery Environment
--------------------------------------------
+Using Applications in Sonora Discovery Environment
+---------------------------------------------------
 
 .. #### Comment: short description
 

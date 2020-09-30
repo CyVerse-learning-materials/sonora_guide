@@ -7,8 +7,8 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-**GUIDE NAME**
-==============
+**Discovery Environment - Sonora**
+==================================
 
 .. #### Comment: If the platform has an ICON place it here
 
@@ -24,8 +24,13 @@ Goal
 	:maxdepth: 2
 
 	Tutorial home <self>
-	First Step <step1.rst>
-	Step Two and/or Final Step <final_step.rst>
+	Logging into Sonora Discovery Environment <step1.rst>
+	Sonora Discovery Environment Dashboard <step2.rst>
+	Mange Data in Sonora Discovery Environment <step3.rst>
+	Searching in Sonora Discovery Environment <step4.rst>
+	Using Applications in Sonora Discovery Environment <step5.rst>
+	Manage Analysis Status and History in Sonora Discovery Environment <step6.rst>
+	Final Notes <final_step.rst>
 	Delete this example guide page <example_directives_delete.rst>
 
 ..

@@ -8,8 +8,8 @@
 
 
 
-Logging into Sonora Discovery Environment
--------------------------------------------
+Sonora Discovery Environment Dashboard
+---------------------------------------
 
 .. #### Comment: short description
 

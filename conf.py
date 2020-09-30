@@ -10,11 +10,11 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from misc.cyverse_sphinx_conf import *  # noqa
 
-project = 'YOUR GUIDE NAME HERE as topic_guide'
+project = 'Sonora Discovery Environment Guide'
 copyright = '2020, CyVerse'
-author = 'your_name'
-version = '2.0'
-release = '2.0'
+author = 'CyVerse Documentation Team'
+version = '0.1'
+release = '0.1'
 
 epub_title = project
 epub_author = author

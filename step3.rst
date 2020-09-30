@@ -8,7 +8,7 @@
 
 
 
-Logging into Sonora Discovery Environment
+Mange Data in Sonora Discovery Environment
 -------------------------------------------
 
 .. #### Comment: short description

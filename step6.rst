@@ -8,8 +8,8 @@
 
 
 
-Logging into Sonora Discovery Environment
--------------------------------------------
+Manage Analysis Status and History in Sonora Discovery Environment
+--------------------------------------------------------------------
 
 .. #### Comment: short description
 
