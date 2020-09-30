@@ -8,7 +8,7 @@
 
 
 
-Mange Data in Sonora Discovery Environment
+Manage Data in Sonora Discovery Environment
 -------------------------------------------
 
 .. #### Comment: short description
