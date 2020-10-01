@@ -32,7 +32,7 @@ When you first navigate to |the DE|, you'll be presented with the Dashboard view
 videos related to CyVerse, along with a list of recently added applications that can be used to perform computational
 analyses. You can explore this information as much as you like, but you must log in before you can perform any tasks.
 
-You may log in by clicking the profile icon in the upper right-hand corner of the DE, orby clicking `SIGN IN` when you
+You may log in by clicking the profile icon in the upper right-hand corner of the DE, or by clicking `SIGN IN` when you
 encounter a message such as this one:
 
 |DE Login Required|
