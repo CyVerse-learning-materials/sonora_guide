@@ -135,11 +135,11 @@
     :width: 25
     :height: 25
 
-.. |Sonora| raw:: html
+.. |the DE| raw:: html
 
-   <a href="https://sonora.cyverse.org" target="blank">Sonora</a>
+   <a href="https://sonora.cyverse.org" target="blank">the DE</a>
 
-.. |Sonora Login Required| image:: ./img/sonora/login_required.png
+.. |DE Login Required| image:: ./img/sonora/login_required.png
     :width: 500px
 
 .. |Github Repo Link|  raw:: html
