@@ -11,7 +11,7 @@
 Searching in Discovery Environment
 ------------------------------------------
 
-
+You can use the search to find the *Apps*, *Analyses* and *Data* from any where within the Discovery Environment.
 
 
 ----
@@ -20,6 +20,7 @@ Searching in Discovery Environment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Start search by typing on the search box located at the top of the page.
+
 
 2. Search will automatically begin once you have typed 3 or more characters.
 
