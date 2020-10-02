@@ -37,7 +37,7 @@ Searching in Discovery Environment
 .. tip::
 		 By default, only top **10 results** are shown. If you want to
 		 see all the results associated with a *search term*, 
-		 you can hit *enter* key after the *search term* or by selecting the `View All results` from the
+		 you can hit *enter* key after the *search term* or by selecting the option similar to *View all analyses results for fasta* from the
 		 results drop-down.
 
 |Detailed_Search_Results|
