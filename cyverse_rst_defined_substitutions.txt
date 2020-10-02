@@ -145,3 +145,7 @@
 .. |Github Repo Link|  raw:: html
 
    <a href="https://github.com/CyVerse-learning-materials/sonora_guide" target="blank">Github Repo</a>
+   
+.. |Global_Search| image:: ./img/de/global_search.png
+
+.. |Detailed_Search_Results| image:: ./img/de/detailed_search_results.png
