@@ -145,3 +145,15 @@
 .. |Github Repo Link|  raw:: html
 
    <a href="https://github.com/CyVerse-learning-materials/sonora_guide" target="blank">Github Repo</a>
+
+.. |analyses icon| image:: ./img/sonora/analyses_icon.png
+    :width: 25
+
+.. |output folder icon| image:: ./img/sonora/output_folder_icon.png
+    :width: 25
+
+.. |data icon| image:: ./img/sonora/data_icon.png
+    :width: 25
+
+.. |notification| image:: ./img/sonora/notification.png
+    :width: 25

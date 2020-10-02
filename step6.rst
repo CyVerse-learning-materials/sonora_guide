@@ -13,43 +13,27 @@ Manage Analysis Status and History in Sonora Discovery Environment
 
 .. #### Comment: short description
 
-**Some things to remember about the platform**
-
-
-- reminder one
-- reminder two
-
+The Discovery Environment maintains a detailed history of jobs you have previously
+launched. Using the Analyses view you can see the status of jobs in progress,
+cancel analyses, relaunch analyses, and view and save the parameters of previously launched
+analyses.
 
 ----
 
-*Descriptive title - reference platform/tool name for searchability*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Browse Analyses in the Discovery Environment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Replace the text below with your own
+1. Open the **Analyses** view by clicking on |analyses icon| on the left side of the Discovery Environment workspace to monitor the status of your submitted analysis.
 
-2. Use the image src in this link to link to
+   .. tip:: By default analyses are sorted by start date and time. The analysis started most recently will appear at the top of the list.
 
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
+2. To sort your analyses hover over the name of the column you wish to sort by and click on the arrow that appears beside the column name. Analyses can be sorted by name, start date, end date or status.
 
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
+3. To filter your analyses by user click on the "View" dropdown menu and select either 'only my analyses' or 'analyses shared with me'. The default view is 'all' analyses.
 
-4. Tell the user to choose an appropriate value for a setting
+4. To filter your analyses by app type click on the "App Type" dropdown menu and select the type of analyses you would like to see (Agave, DE, interactive or OSG).
 
-   .. admonition:: sample-data
-
-     Tell them if they are following with our sample data exactly
-     what value to choose
-
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
+5. To open the output folder of a particular analysis click on the output folder icon |output folder icon| at the right side of that analysis. 
 
 
 ----
@@ -66,44 +50,3 @@ Manage Analysis Status and History in Sonora Discovery Environment
 
 ----
 
-
-.. Comment: Place Images Below This Line
-   use :width: to give a desired width for your image
-   use :height: to give a desired height for your image
-   replace the image name/location and URL if hyperlinked
-
-
- .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
-    :width: 500
-    :height: 100
- .. _CyVerse logo: http://learning.cyverse.org/
-
- .. |Static image| image:: ./img/IMAGENAME.png
-    :width: 25
-    :height: 25
-
-
-
-.. Comment: Place URLS Below This Line
-
-   # Use this example to ensure that links open in new tabs, avoiding
-   # forcing users to leave the document, and making it easy to update links
-   # In a single place in this document
-
-   .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
-
-      <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
-
-
-.. |DE App| raw:: html
-
-   <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
-
-.. |Atmosphere Image| raw:: html
-
-   <a href="https://atmo.cyverse.org/application/images/1384" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
