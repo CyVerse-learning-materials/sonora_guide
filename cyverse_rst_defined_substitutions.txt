@@ -91,7 +91,13 @@
 
    <a href="https://tacc-cloud.readthedocs.io/projects/agave/en/latest/" target="blank">Tapis TACC API Docs</a>
 
+.. |the DE| raw:: html
 
+   <a href="https://sonora.cyverse.org" target="blank">the DE</a>
+
+.. |Github Repo Link|  raw:: html
+
+   <a href="https://github.com/CyVerse-learning-materials/sonora_guide" target="blank">Github Repo</a>
 
 .. Comment: Deprecated links  - these may appear in our documentation but
    currently refer to dead URLS with no equivalent redirects.
@@ -135,13 +141,7 @@
     :width: 25
     :height: 25
 
-.. |the DE| raw:: html
-
-   <a href="https://sonora.cyverse.org" target="blank">the DE</a>
-
 .. |DE Login Required| image:: ./img/sonora/login_required.png
     :width: 500px
 
-.. |Github Repo Link|  raw:: html
 
-   <a href="https://github.com/CyVerse-learning-materials/sonora_guide" target="blank">Github Repo</a>
