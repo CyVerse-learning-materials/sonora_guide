@@ -8,8 +8,8 @@
 
 
 
-Sonora Discovery Environment Dashboard
----------------------------------------
+Discovery Environment Dashboard
+-------------------------------
 
 The Dashboard provides an overview of recent activity inside CyVerse and the 
 Discovery Environment that may be of interest to you. Here you can see
