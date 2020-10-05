@@ -1,2 +1,6 @@
 _build/
 misc/__pycache__/
+
+#IntelliJ files
+.idea
+venv
