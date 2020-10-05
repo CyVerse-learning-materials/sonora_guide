@@ -156,3 +156,8 @@
 .. |Apps_sharing| image:: ./img/de/sharing_apps.png
     :width: 500
 
+.. |Analyses_icon| image:: ./img/de/analyses_icon.png
+    :width: 25
+
+.. |Analyses_sharing| image:: ./img/de/sharing_analyses.png
+    :width: 500
