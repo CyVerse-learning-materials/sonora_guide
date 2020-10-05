@@ -8,7 +8,7 @@
 
 
 
-Manage Data in Sonora Discovery Environment
+Viewing Files in Discovery Environment
 -------------------------------------------
 
 .. #### Comment: short description
