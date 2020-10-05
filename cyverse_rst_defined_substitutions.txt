@@ -150,4 +150,9 @@
 .. |Data_sharing| image:: ./img/de/sharing_data.png
     :width: 500
 
+.. |Apps_icon| image:: ./img/de/apps_icon.png
+    :width: 25
+
+.. |Apps_sharing| image:: ./img/de/sharing_apps.png
+    :width: 500
 
