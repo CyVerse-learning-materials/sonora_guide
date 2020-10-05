@@ -144,4 +144,10 @@
 .. |DE Login Required| image:: ./img/sonora/login_required.png
     :width: 500px
 
+.. |Data_icon| image:: ./img/de/data_icon.png
+    :width: 25
+
+.. |Data_sharing| image:: ./img/de/sharing_data.png
+    :width: 500
+
 
