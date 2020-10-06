@@ -13,44 +13,83 @@ Using Applications in Sonora Discovery Environment
 
 .. #### Comment: short description
 
-**Some things to remember about the platform**
-
-
-- reminder one
-- reminder two
-
+When you are ready to analyze data, you can select from one of several hundred
+applications in the Discovery Environment. We will cover the minimum you need to
+launch an analysis using some sample data. In this example, we will use the **Muscle**
+multiple sequence aligner app, to align some DNA sequences.
 
 ----
 
-*Descriptive title - reference platform/tool name for searchability*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Example Data**
 
-1. Replace the text below with your own
+.. list-table::
+    :header-rows: 1
 
-2. Use the image src in this link to link to
+    * - Input
+      - Description
+      - Example
+    * - Unaligned DNA sequence reads
+      - One or more sequences in FASTA format
+      - `DE_sample_plants.fas <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/01_muscle_input/DE_sample_plants.fas>`_
 
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
+**Discovery Environment App(s):**
 
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
+.. list-table::
+    :header-rows: 1
 
-4. Tell the user to choose an appropriate value for a setting
+    * - App name
+      - Version
+      - Description
+      - App link
+      - Notes/other links
+    * - Muscle
+      - 3.8.31
+      - Multiple sequence aligner
+      -	|muscle|
+      -
 
-   .. admonition:: sample-data
+.. Tip::
+    Applications in the Discovery Environment **Apps** menu have several features:
+    |de_app_icon|
 
-     Tell them if they are following with our sample data exactly
-     what value to choose
+    - |dots| **Dots**: Show additional links including *"App info"*, *"Add to Favorites"*,
+      and *"Comments"*.
+    - |info| **App Info**: Information about the App including short description.
+      user manual, number of successful analyses, date of last use, URL link to
+      App
+    - |comment| **Comment**: Add comments/feedback on the App
+    - |favorite| **Add to Favorite**: Add to your list of favorite Apps
+    - |rating| **Rating**: Rate the app, and see current community rating (may
+      indicate how many others liked the App)
+    - |unavailable| **Unavailable**: App is disabled; may be outdated, unavailable
+      due to maintenance. Contact support@cyverse.org for help using these
+    - |beta| **Beta**: App is in beta testing (leave feedback if you use!)
+    - |private| **Private**: Application is not public and not visible by all users
 
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
+*Example Discovery Environment Analysis: Multiple sequence alignment with MUSCLE*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. If necessary, login to the |discovery environment|.
 
+2. Click |apps_icon| **Apps** from the DE workspace; search for MUSCLE 3.8.31 or
+   click this link: |muscle|. (*Tip:* when using the link in this guide, the
+   Muscle app may start behind other open windows in the DE)
+
+3. Under “Analysis Name” leave the defaults or make any desired notes.
+   |muscle_app_window|
+4. Under “Select Input data” click **Browse**, then navigate to and select
+   |de sample plants|; then click OK.
+
+   (Location: *Community Data > cyverse_training > platform_guides > discovery_environment > muscle_3_8_31 > 01_muscle_input*)
+
+5. Under “Sequence Type”, select **DNA**.
+
+6. Under `Resource Requirements <analyses_resource_reqs.html>`_ leave the default settings.
+   If required, some analyses may be launched with requests for more resources,
+   but this may cause those analyses to wait longer in the submission queue
+   until a node that matches those minimum requirements becomes available.
+
+7. Click **Launch Analysis**.
+   You will receive a notification and the Muscle App window will close.
 
 ----
 
@@ -68,42 +107,60 @@ Using Applications in Sonora Discovery Environment
 
 
 .. Comment: Place Images Below This Line
-   use :width: to give a desired width for your image
-   use :height: to give a desired height for your image
-   replace the image name/location and URL if hyperlinked
 
-
- .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
+.. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
     :height: 100
- .. _CyVerse logo: http://learning.cyverse.org/
-
- .. |Static image| image:: ./img/IMAGENAME.png
-    :width: 25
-    :height: 25
-
+.. _CyVerse logo: http://learning.cyverse.org/
+.. |Home_Icon| image:: ./img/homeicon.png
+    :width: 15
+    :height: 15
+.. _Home_Icon: http://learning.cyverse.org/
+.. |info| image:: ./img/de/info.png
+    :width: 15
+    :height: 15
+.. |comment| image:: ./img/de/comment.png
+      :width: 15
+      :height: 15
+.. |favorite| image:: ./img/de/favorite.png
+      :width: 15
+      :height: 15
+.. |rating| image:: ./img/de/rating.png
+      :width: 70
+      :height: 15
+.. |Unavailable| image:: ./img/de/unavailable.png
+      :width: 15
+      :height: 15
+.. |beta| image:: ./img/de/beta.png
+      :width: 15
+      :height: 15
+.. |private| image:: ./img/de/private.png
+      :width: 15
+      :height: 15
+.. |dots| image:: ./img/de/dots.png
+      :width: 15
+      :height: 20
+.. |de_app_icon| image:: ./img/de/de_app_icon.png
+      :width: 250
+      :height: 100
+.. |apps_icon| image:: ./img/de/apps_icon.png
+    :width: 30
+    :height: 30
+.. |muscle_app_window| image:: ./img/de/muscle_app_window.png
+    :width: 425
+    :height: 250
 
 
 .. Comment: Place URLS Below This Line
 
-   # Use this example to ensure that links open in new tabs, avoiding
-   # forcing users to leave the document, and making it easy to update links
-   # In a single place in this document
+.. |discovery environment| raw:: html
 
-   .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
+    <a href="https://de.cyverse.org/de/" target="_blank">https://de.cyverse.org/de/</a>
 
-      <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
+.. |muscle| raw:: html
 
+    <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="_blank">Muscle 3.8.31</a>
 
-.. |Github Repo Link|  raw:: html
+.. |de sample plants| raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
-
-
-.. |DE App| raw:: html
-
-   <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
-
-.. |Atmosphere Image| raw:: html
-
-   <a href="https://atmo.cyverse.org/application/images/1384" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
+    <a href="https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/01_muscle_input" target="_blank">DE_sample_plants.fas</a>
