@@ -11,45 +11,44 @@
 Manage Data in Sonora Discovery Environment
 -------------------------------------------
 
-.. #### Comment: short description
-
-**Some things to remember about the platform**
-
-
-- reminder one
-- reminder two
-
+The Discovery Environment allows you to access, view, and manage your files in the CyVerse Data Store. You can upload smaller files, but for large files or large number of files, we recommend faster methods such as Cyberduck or iCommands. See documentation for those tools in our |Data Store Guide|.
 
 ----
 
-*Descriptive title - reference platform/tool name for searchability*
+*Upload / import small files in the Sonora Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Replace the text below with your own
+1. In the navigation menu, click the **Data** button |data button| to access the data window in the Discovery Environment.
 
-2. Use the image src in this link to link to
+2. In the data window you will see a directory of files and folders in your Data Store. You may select a folder to be the destination for your uploaded file(s). You may also click the **Folder** button to create a new folder. If you do not select a destination, files will be uploaded to your home Data Store folder (i.e. iplant/home/CYVERSE_USERNAME)
 
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
+3. Click the **Upload** button |upload button| to choose your options for importing files into the Discovery Environment:
 
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
+    - To upload files from your local computer choose **Browse Local**;
+      a file browser will open and you may select up to XXX files to upload
+      (XXX MB Max)
 
-4. Tell the user to choose an appropriate value for a setting
+    - To upload files available at a URL choose **Import by URL**;
+      You may paste in a valid HTTP or FTP url. Then press **Import**. You may paste additional URLs or close this window by clicking **Done**.
 
-   .. admonition:: sample-data
+  .. tip::
 
-     Tell them if they are following with our sample data exactly
-     what value to choose
+    When your data store file browser is open, you can also upload files from your computer by dragging them onto your browser window.
 
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
+    |upload drag|
+
+
+4. Once you have begun the upload, you will get a notification that files have been queued for upload. You may also view the status of an upload or import
+by going back to the **Upload** button and choosing **View Upload Queue**.
+
+   |upload queue|
+
+   .. note::
+
+     The Queue will only display the status of uploads from local files. Files imported by URL will generate a message in your notifications (bell icon, upper-left) when they have completed or if they fail.
+
+
+
 
 
 ----
@@ -107,3 +106,19 @@ Manage Data in Sonora Discovery Environment
 .. |Atmosphere Image| raw:: html
 
    <a href="https://atmo.cyverse.org/application/images/1384" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
+
+.. |data button| image:: ./img/sonora/data_button.png
+    :width: 25
+    :height: 25
+
+.. |upload button| image:: ./img/sonora/upload_button.png
+    :width: 100
+    :height: 30
+
+.. |upload queue| image:: ./img/sonora/upload_queue_notification.png
+    :width: 400
+    :height: 50
+
+.. |upload drag| image:: ./img/sonora/upload_drag.gif
+    :width: 600
+    :height: 350
