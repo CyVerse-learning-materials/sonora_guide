@@ -16,7 +16,7 @@ You can use the search to find the *Apps*, *Analyses*, and *Data* from anywhere 
 
 ----
 
-*Search Apps, Analyses and Data*
+*Search Apps, Analyses, and Data*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Start search by typing on the search box located at the top of the page.
