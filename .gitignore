@@ -2,3 +2,6 @@ _build/
 misc/__pycache__/
 requirements.txt
 .vscode/settings.json
+img/de/data.png
+img/de/homepage.png
+img/de/toolbar.png
