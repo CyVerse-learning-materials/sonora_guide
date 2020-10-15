@@ -70,7 +70,6 @@
 
    <a href="https://learning.cyverse.org/projects/dnasubway_guide/en/latest/" target="blank">DNA Subway Guide</a>
 
-
 .. |SciApps| raw:: html
 
    <a href="https://www.sciapps.org/" target="blank">SciApps</a>
@@ -91,7 +90,13 @@
 
    <a href="https://tacc-cloud.readthedocs.io/projects/agave/en/latest/" target="blank">Tapis TACC API Docs</a>
 
+.. |the DE| raw:: html
 
+   <a href="https://sonora.cyverse.org" target="blank">the DE</a>
+
+.. |Github Repo Link|  raw:: html
+
+   <a href="https://github.com/CyVerse-learning-materials/sonora_guide" target="blank">Github Repo</a>
 
 .. Comment: Deprecated links  - these may appear in our documentation but
    currently refer to dead URLS with no equivalent redirects.
@@ -117,7 +122,6 @@
 
    <a href="http://learning.cyverse.org/en/latest/" target="blank">BisQue Guide</a>
 
-
 .. Comment: images
 
 .. |CyVerse_logo| image:: ./img/cyverse_learning.png
@@ -139,9 +143,36 @@
 
    <a href="https://sonora.cyverse.org" target="blank">the DE</a>
 
+.. |DE Apps view| raw:: html
+
+   <a href="https://sonora.cyverse.org/apps" target="blank">DE Apps view</a>
+
 .. |DE Login Required| image:: ./img/sonora/login_required.png
     :width: 500px
 
-.. |Github Repo Link|  raw:: html
+.. |Data_icon| image:: ./img/de/data_icon.png
+    :width: 25
 
-   <a href="https://github.com/CyVerse-learning-materials/sonora_guide" target="blank">Github Repo</a>
+.. |Data_sharing| image:: ./img/de/sharing_data.png
+    :width: 500
+
+.. |Apps_icon| image:: ./img/de/apps_icon.png
+    :width: 25
+
+.. |Apps_sharing| image:: ./img/de/sharing_apps.png
+    :width: 500
+
+.. |Analyses_icon| image:: ./img/de/analyses_icon.png
+    :width: 25
+
+.. |Analyses_sharing| image:: ./img/de/sharing_analyses.png
+    :width: 500
+
+.. |TAPIS API| raw:: html
+
+   <a href="https://tapis-project.org/" target="blank">TAPIS API</a>
+
+.. |YouTube Channel| raw:: html
+
+   <a href="https://www.youtube.com/c/CyverseOrgProject/" target="blank">YouTube Channel</a>
+

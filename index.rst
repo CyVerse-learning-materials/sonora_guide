@@ -26,7 +26,7 @@ Goal
 	Tutorial home <self>
 	Logging into Sonora Discovery Environment <step1.rst>
 	Sonora Discovery Environment Dashboard <step2.rst>
-	Mange Data in Sonora Discovery Environment <step3.rst>
+	Manage Data in the Discovery Environment <step3.rst>
 	Searching in Sonora Discovery Environment <step4.rst>
 	Using Applications in Sonora Discovery Environment <step5.rst>
 	Manage Analysis Status and History in Sonora Discovery Environment <step6.rst>

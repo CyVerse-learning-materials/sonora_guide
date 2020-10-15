@@ -8,3 +8,55 @@
     :width: 125
     :height: 20
     :target: https://de.cyverse.org/de/  target="_blank"
+
+
+.. |DE Apps Navigation Icon| image:: ./img/sonora/apps_nav_icon.png
+    :width: 25px
+    :height: 25px
+
+.. |DE App Listing| image:: ./img/sonora/apps_list.png
+    :width: 600px
+
+.. |DE App Subsets| image:: ./img/sonora/app_subsets.png
+    :width: 300px
+
+.. |DE App Filter| image:: ./img/sonora/app_filters.png
+    :width: 200px
+
+.. |DE Selected App Filter| image:: ./img/sonora/selected_app_filter.png
+    :width: 200px
+
+.. |DE App Details Button| image:: ./img/sonora/app_details_button.png
+    :width: 300px
+
+.. |DE App Details| image:: ./img/sonora/app_details.png
+    :width: 400px
+
+.. |Dashboard| image:: ./img/sonora/dashboard.png
+    :width: 600px
+
+.. |Data Icon| image:: ./img/sonora/data_icon.png
+    :width: 25px
+
+.. |Data Window| image:: ./img/sonora/data_window.png
+    :width: 400px
+
+.. |data button| image:: ./img/sonora/data_button.png
+    :width: 25
+    :height: 25
+
+.. |upload button| image:: ./img/sonora/upload_button.png
+    :width: 100
+    :height: 30
+
+.. |upload queue| image:: ./img/sonora/upload_queue_notification.png
+    :width: 400
+    :height: 50
+
+.. |upload drag| image:: ./img/sonora/upload_drag.gif
+    :width: 600
+    :height: 350
+
+.. |Global_Search| image:: ./img/de/global_search.png
+
+.. |Detailed_Search_Results| image:: ./img/de/detailed_search_results.png

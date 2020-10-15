@@ -3,54 +3,42 @@
 
 |CyVerse_logo|_
 
-|Home_Icon|_
+|Home_Icon|
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
 
-Searching in Sonora Discovery Environment
+Searching in the Discovery Environment
 ------------------------------------------
 
-.. #### Comment: short description
-
-**Some things to remember about the platform**
+You can use the search to find the *Apps*, *Analyses*, and *Data* from anywhere within the Discovery Environment.
 
 
-- reminder one
-- reminder two
-
-
-----
-
-*Descriptive title - reference platform/tool name for searchability*
+*Search Apps, Analyses, and Data*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Replace the text below with your own
+1. Start search by typing on the search box located at the top of the page.
 
-2. Use the image src in this link to link to
+2. Search will automatically begin once you have typed 3 or more characters.
 
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
+3. Search results will be displayed as drop-down grouped by **Apps**, **Analyses**, or **Data**.
 
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
+   |Global_Search|
 
-4. Tell the user to choose an appropriate value for a setting
+.. tip::
+		 If you want to just search **Apps** or **Analyses** or **Data**, you can use
+		 the filter drop-down next to search field to select the appropriate filter.
 
-   .. admonition:: sample-data
+4. You can click on the desired result from the drop-down.
 
-     Tell them if they are following with our sample data exactly
-     what value to choose
+.. tip::
 
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
+		 By default, only the top **10 results** are shown. If you want to
+		 see all the results associated with a *search term*,
+		 you can the hit *enter* key after the *search term* or by selecting the option similar to *View all analyses results for fasta* from the
+		 results drop-down.
 
+|Detailed_Search_Results|
 
 ----
 
@@ -63,47 +51,3 @@ Searching in Sonora Discovery Environment
 - Report an issue or submit a change:
   |Github Repo Link|
 - Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
-
-----
-
-
-.. Comment: Place Images Below This Line
-   use :width: to give a desired width for your image
-   use :height: to give a desired height for your image
-   replace the image name/location and URL if hyperlinked
-
-
- .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
-    :width: 500
-    :height: 100
- .. _CyVerse logo: http://learning.cyverse.org/
-
- .. |Static image| image:: ./img/IMAGENAME.png
-    :width: 25
-    :height: 25
-
-
-
-.. Comment: Place URLS Below This Line
-
-   # Use this example to ensure that links open in new tabs, avoiding
-   # forcing users to leave the document, and making it easy to update links
-   # In a single place in this document
-
-   .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
-
-      <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
-
-
-.. |DE App| raw:: html
-
-   <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
-
-.. |Atmosphere Image| raw:: html
-
-   <a href="https://atmo.cyverse.org/application/images/1384" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
