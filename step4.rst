@@ -14,18 +14,14 @@ Searching in the Discovery Environment
 You can use the search to find the *Apps*, *Analyses*, and *Data* from anywhere within the Discovery Environment.
 
 
-----
-
 *Search Apps, Analyses, and Data*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Start search by typing on the search box located at the top of the page.
 
-
 2. Search will automatically begin once you have typed 3 or more characters.
 
-3. Search results will be displayed as drop-down grouped by **Apps**, **Analyses**,
-   or **Data**.
+3. Search results will be displayed as drop-down grouped by **Apps**, **Analyses**, or **Data**.
 
    |Global_Search|
 
@@ -36,10 +32,22 @@ You can use the search to find the *Apps*, *Analyses*, and *Data* from anywhere 
 4. You can click on the desired result from the drop-down.
 
 .. tip::
+
 		 By default, only the top **10 results** are shown. If you want to
-		 see all the results associated with a *search term*, 
+		 see all the results associated with a *search term*,
 		 you can the hit *enter* key after the *search term* or by selecting the option similar to *View all analyses results for fasta* from the
 		 results drop-down.
 
 |Detailed_Search_Results|
+
 ----
+
+**Fix or improve this documentation**
+
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
+- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
