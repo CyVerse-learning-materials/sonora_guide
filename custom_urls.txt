@@ -34,3 +34,9 @@
 
 .. |Dashboard| image:: ./img/sonora/dashboard.png
     :width: 600px
+
+.. |Data Icon| image:: ./img/sonora/data_icon.png
+    :width: 25px
+
+.. |Data Window| image:: ./img/sonora/data_window.png
+    :width: 400px
