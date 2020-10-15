@@ -7,14 +7,14 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-
-
-Using Applications in the Discovery Environment
+Applications in the Discovery Environment
 ---------------------------------------------------
 
-*Applications*, also known as *apps*, are pieces of software that have been configured to run within the Discovery
-Environment (DE). When you're ready to analyze your data, you may choose from several hundred pre-defined apps to do
-so.
+When you are ready to analyze data, you can select from one of several hundred
+applications in the Discovery Environment. We will cover the minimum you need to
+launch an analysis using some sample data. In this example, we will use the **Muscle**
+multiple sequence aligner app, to align some DNA sequences.
+
 
 Browsing Apps in the Discovery Environment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,6 +68,7 @@ The currently selected app subset is highlighted in gray. The app subsets that a
     * - Browse All Apps
       - All apps available to you within the DE.
 
+
 The second way to reduce the scope of the app listing is to select a filter in
 the upper right corner of the Apps view. Clicking anywhere on the Filter
 control allows you to select which type of apps you'd like to see in the
@@ -97,10 +98,10 @@ empty. The currently available app filters are:
       - Executable (non-interactive apps) that run on Open Science Grid (OSG)
         resources.
 
-
 Once you've selected an app filter, it will be displayed in the Filter control:
 
 |DE Selected App Filter|
+
 
 The selected filter will stay in place until you select a new filter or dismiss
 the current filter by clicking the `X` just to the right of the filter name.
@@ -148,6 +149,7 @@ the panel.
 4. In the Sharing dialog that opens, ensure that the apps you wish to share are shown.
 
     |Apps_sharing|
+    
 5. In the search field, search for the CyVerse user you wish to share with by searching for their CyVerse username or email address this is a change.
 
 6. Next, under "Permission", choose which permission you want to grant the person you are sharing these apps with.
@@ -180,6 +182,73 @@ the panel.
             - **X**
             - **X**
             - **X**
+            
+           
+
+*Example Discovery Environment Analysis: Multiple sequence alignment with MUSCLE*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+            
+**Example Data**
+
+.. list-table::
+    :header-rows: 1
+
+    * - Input
+      - Description
+      - Example
+    * - Unaligned DNA sequence reads
+      - One or more sequences in FASTA format
+      - `DE_sample_plants.fas <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/01_muscle_input/DE_sample_plants.fas>`_
+
+**Discovery Environment App(s):**
+
+.. list-table::
+    :header-rows: 1
+
+    * - App name
+      - Version
+      - Description
+      - App link
+      - Notes/other links
+    * - Muscle
+      - 3.8.31
+      - Multiple sequence aligner
+      -	|muscle|
+      -
+
+1. If necessary, login to the |Discovery Environment|.
+
+2. Click |apps_icon| **Apps** from the DE workspace; search for MUSCLE-3.8.31 or
+   click this link: |muscle|.
+
+3. Under "Analysis Info" leave the defaults or make any desired notes.
+
+   |muscle_app_launch_info|
+
+4. Under "Select Input data" click :guilabel:`&Browse`, then navigate to and select
+   |de sample plants|; then click OK.
+
+   (Location: Community Data > cyverse_training > platform_guides > discovery_environment > muscle_3_8_31 > **01_muscle_input**)
+
+   |muscle_app_input_data|
+
+5. Under "Sequence Type", select **DNA**.
+
+   |muscle_app_seq_type|
+
+6. Under the optional "Advanced Settings" leave the default settings.
+   If required, some analyses may be launched with requests for more minimum
+   `Resource Requirements <analyses_resource_reqs.html>`_,
+   but this may cause those analyses to wait longer in the submission queue
+   until a node that matches those minimum requirements becomes available.
+
+7. Click :guilabel:`&Launch Analysis`
+
+   |muscle_app_launch|
+
+   You will receive a notification and be redirected to the Analyses Listing page.
+        
 ----
 
 **Fix or improve this documentation**
