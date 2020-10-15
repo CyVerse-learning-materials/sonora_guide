@@ -16,6 +16,7 @@ To manage data in the Discovery Environment, begin by clicking on the Data icon
 should be shown your own home directory, in order with folders first, then
 alphabetically.
 
+
 |Data Window|
 
 Browsing Data in the Discovery Environment
@@ -46,6 +47,22 @@ other users.
 
 
 The Discovery Environment allows you to access, view, and manage your files in the CyVerse Data Store. You can upload smaller files, but for large files or large number of files, we recommend faster methods such as Cyberduck or iCommands. See documentation for those tools in our |Data Store Guide|.
+
+
+
+*Deleting files/folders in the Discovery Environment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. If necessary, login to the |discovery environment|.
+
+2. To open the data view click on the data icon |data icon| on the left side of the Discovery Environment workspace.
+
+3. Select the file/folder by clicking the checkbox to the left of the name. More than one file/folder can be selected at once.
+
+4. Click on the ellipsis menu in the upper right corner of the data view and select **delete** from the pop-up menu. Once the deletion has completed you will receive a notification under the notification icon |notification|.
+
+
+   .. tip:: Deleted files can be retrieved from your trash folder. The trash folder can be accessed by clicking on your username in the top left corner of the data view.
 
 
 *Upload / import small files in the Sonora Discovery Environment*
@@ -137,7 +154,6 @@ by going back to the **Upload** button and choosing **View Upload Queue**.
             - **X**
 
 ----
-
 
 **Fix or improve this documentation**
 
