@@ -56,3 +56,7 @@
 .. |upload drag| image:: ./img/sonora/upload_drag.gif
     :width: 600
     :height: 350
+
+.. |Global_Search| image:: ./img/de/global_search.png
+
+.. |Detailed_Search_Results| image:: ./img/de/detailed_search_results.png
