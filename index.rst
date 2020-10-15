@@ -31,7 +31,7 @@ Goal
 	Using Applications in Sonora Discovery Environment <step5.rst>
 	Manage Analysis Status and History in Sonora Discovery Environment <step6.rst>
 	Final Notes <final_step.rst>
-	Delete this example guide page <example_directives_delete.rst>
+
 
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
@@ -102,23 +102,7 @@ Platform(s)
       - Web/Point-and-click
       - |Discovery Environment|
       - |Discovery Environment Guide|
-    * - Atmosphere
-      - Command line (ssh) and/or Desktop (VNC)
-      - |Atmosphere|
-      - |Atmosphere Guide|
-    * - BisQue
-      - Web/Point-and-click and/or Command-line (API)
-      - |BisQue|
-      - |BisQue Manual|
-      - (See Manual)
-    * - DNA Subway
-      - Web/Point-and-click
-      - |DNA Subway|
-      - |DNA Subway Guide|
-    * - SciApps
-      - Command-line (API)
-      - |SciApps|
-      - |SciApps Guide|
+
 
 ----
 
