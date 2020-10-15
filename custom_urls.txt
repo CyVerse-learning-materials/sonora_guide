@@ -60,3 +60,60 @@
 .. |Global_Search| image:: ./img/de/global_search.png
 
 .. |Detailed_Search_Results| image:: ./img/de/detailed_search_results.png
+
+.. Comment: Place Images Below This Line
+
+.. |apps_icon| image:: ./img/sonora/apps_icon.png
+    :width: 32
+    :height: 24
+.. |de_app_tile| image:: ./img/sonora/de_app_tile.png
+      :width: 320
+      :height: 140
+.. |dots| image:: ./img/sonora/dots.png
+      :width: 30
+      :height: 30
+.. |info| image:: ./img/sonora/info.png
+    :width: 30
+    :height: 30
+.. |comment| image:: ./img/sonora/comment.png
+      :width: 30
+      :height: 30
+.. |favorite| image:: ./img/sonora/favorite.png
+      :width: 30
+      :height: 30
+.. |rating| image:: ./img/sonora/rating.png
+      :width: 120
+      :height: 20
+.. |unavailable| image:: ./img/sonora/unavailable.png
+      :width: 30
+      :height: 30
+.. |beta| image:: ./img/sonora/beta.png
+      :width: 30
+      :height: 30
+.. |private| image:: ./img/sonora/private.png
+      :width: 30
+      :height: 30
+
+.. |muscle_app_launch_info| image:: ./img/sonora/muscle_app_launch_info.png
+    :width: 480
+    :height: 254
+
+.. |muscle_app_input_data| image:: ./img/sonora/muscle_app_input_data.png
+    :width: 458
+    :height: 90
+
+.. |muscle_app_seq_type| image:: ./img/sonora/muscle_app_seq_type.png
+    :width: 458
+    :height: 90
+
+.. |muscle_app_launch| image:: ./img/sonora/muscle_app_launch.png
+    :width: 480
+    :height: 292
+
+.. |muscle| raw:: html
+
+    <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="_blank" rel="noopener">Muscle 3.8.31</a>
+
+.. |de sample plants| raw:: html
+
+    <a href="https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/01_muscle_input" target="_blank" rel="noopener">DE_sample_plants.fas</a>
