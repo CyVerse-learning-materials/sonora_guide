@@ -8,8 +8,42 @@
 
 
 
-Manage Data in Sonora Discovery Environment
--------------------------------------------
+Manage Data in the Discovery Environment
+----------------------------------------
+
+To manage data in the Discovery Environment, begin by clicking on the Data icon
+|Data Icon| in the sidebar. You may be prompted to log in. Once logged in, you
+should be shown your own home directory, in order with folders first, then
+alphabetically.
+
+|Data Window|
+
+Browsing Data in the Discovery Environment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. To see more information, press the :guilabel:`&Customize Columns` button to
+show more columns in the display, such as size or modification date.
+
+2. If the folder you're viewing has many items in it, the bottom of the screen
+provides a way to change between pages and set the number of items displayed per page.
+
+3. Click on the name of a subfolder to open that folder. Near the top of the
+screen, you should see breadcrumbs that indicate the folder you're viewing and its parent folders.
+
+4. From the top left, at the start of the breadcrumbs, you may select another
+root folder to view from among your home folder, "Shared With Me", "Community Data", and Trash.
+
+Discovery Environment File and Folder Details
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+1. Click the checkbox next to a file or folder to select it.
+
+2. With an item selected, there will be a button near the top right labeled :guilabel:`&Details`. Alternatively, click the three-dots menu to the right edge in a file or folder's row, and click the :guilabel:`&Details` button there to see specific information about the selected item, to copy the path to the item, to add tags to the item, or to set a file's info type.
+
+3. Click "Permissions" to see your own permissions on the item, and those of
+other users.
+
 
 The Discovery Environment allows you to access, view, and manage your files in the CyVerse Data Store. You can upload smaller files, but for large files or large number of files, we recommend faster methods such as Cyberduck or iCommands. See documentation for those tools in our |Data Store Guide|.
 
@@ -46,12 +80,8 @@ by going back to the **Upload** button and choosing **View Upload Queue**.
    .. note::
 
      The Queue will only display the status of uploads from local files. Files imported by URL will generate a message in your notifications (bell icon, upper-left) when they have completed or if they fail.
-
-
-
-
-
-----
+     
+    ----
 
 **Fix or improve this documentation**
 
@@ -61,64 +91,4 @@ by going back to the **Upload** button and choosing **View Upload Queue**.
   click |Intercom| on the lower right-hand side of the page
 - Report an issue or submit a change:
   |Github Repo Link|
-- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
-
-----
-
-
-.. Comment: Place Images Below This Line
-   use :width: to give a desired width for your image
-   use :height: to give a desired height for your image
-   replace the image name/location and URL if hyperlinked
-
-
- .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
-    :width: 500
-    :height: 100
- .. _CyVerse logo: http://learning.cyverse.org/
-
- .. |Static image| image:: ./img/IMAGENAME.png
-    :width: 25
-    :height: 25
-
-
-
-.. Comment: Place URLS Below This Line
-
-   # Use this example to ensure that links open in new tabs, avoiding
-   # forcing users to leave the document, and making it easy to update links
-   # In a single place in this document
-
-   .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
-
-      <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
-
-
-.. |DE App| raw:: html
-
-   <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
-
-.. |Atmosphere Image| raw:: html
-
-   <a href="https://atmo.cyverse.org/application/images/1384" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
-
-.. |data button| image:: ./img/sonora/data_button.png
-    :width: 25
-    :height: 25
-
-.. |upload button| image:: ./img/sonora/upload_button.png
-    :width: 100
-    :height: 30
-
-.. |upload queue| image:: ./img/sonora/upload_queue_notification.png
-    :width: 400
-    :height: 50
-
-.. |upload drag| image:: ./img/sonora/upload_drag.gif
-    :width: 600
-    :height: 350
+- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_ 

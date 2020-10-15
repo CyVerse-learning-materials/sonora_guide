@@ -1,2 +1,17 @@
 _build/
+_build_html/
 misc/__pycache__/
+
+# Use the requirements.txt file from https://github.com/CyVerse-learning-materials/learning-center-2.0-release/tree/master/readthedocstools.
+requirements.txt
+
+# Use pipenv to generate these files from the requirements.txt file, but don't 
+# check them in. Not the standard for Python projects, but keeps the 
+# requirements.txt file in CyVerse-learning-materials as the single source of 
+# truth.
+Pipfile
+Pipfile.lock
+
+# Ignores the VSCode-specific configurations.
+.vscode/
+

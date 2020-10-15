@@ -139,9 +139,21 @@
 
    <a href="https://sonora.cyverse.org" target="blank">the DE</a>
 
+.. |DE Apps view| raw:: html
+
+   <a href="https://sonora.cyverse.org/apps" target="blank">DE Apps view</a>
+
 .. |DE Login Required| image:: ./img/sonora/login_required.png
     :width: 500px
 
 .. |Github Repo Link|  raw:: html
 
    <a href="https://github.com/CyVerse-learning-materials/sonora_guide" target="blank">Github Repo</a>
+
+.. |TAPIS API| raw:: html
+
+   <a href="https://tapis-project.org/" target="blank">TAPIS API</a>
+
+.. |YouTube Channel| raw:: html
+
+   <a href="https://www.youtube.com/c/CyverseOrgProject/" target="blank">YouTube Channel</a>
