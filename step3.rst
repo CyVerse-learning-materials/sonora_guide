@@ -147,7 +147,4 @@ by going back to the **Upload** button and choosing **View Upload Queue**.
   click |Intercom| on the lower right-hand side of the page
 - Report an issue or submit a change:
   |Github Repo Link|
-<<<<<<< HEAD
-- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
-=======
 - Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
