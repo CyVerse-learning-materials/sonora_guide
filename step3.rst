@@ -47,12 +47,11 @@ other users.
 
 The Discovery Environment allows you to access, view, and manage your files in the CyVerse Data Store. You can upload smaller files, but for large files or large number of files, we recommend faster methods such as Cyberduck or iCommands. See documentation for those tools in our |Data Store Guide|.
 
-----
 
 *Upload / import small files in the Sonora Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. In the navigation menu, click the **Data** button |data button| to access the data window in the Discovery Environment.
+1. In the navigation menu, click the **Data** button |Data Icon| to access the data window in the Discovery Environment.
 
 2. In the data window you will see a directory of files and folders in your Data Store. You may select a folder to be the destination for your uploaded file(s). You may also click the **Folder** button to create a new folder. If you do not select a destination, files will be uploaded to your home Data Store folder (i.e. iplant/home/CYVERSE_USERNAME)
 
@@ -79,9 +78,9 @@ by going back to the **Upload** button and choosing **View Upload Queue**.
 
    .. note::
 
-     The Queue will only display the status of uploads from local files. Files imported by URL will generate a message in your notifications (bell icon, upper-left) when they have completed or if they fail.
-     
-    ----
+     The queue will only display the status of uploads from local files. Files imported by URL will generate a message in your notifications (bell icon, upper-left) when they have completed or if they fail.
+
+----
 
 **Fix or improve this documentation**
 
@@ -91,4 +90,4 @@ by going back to the **Upload** button and choosing **View Upload Queue**.
   click |Intercom| on the lower right-hand side of the page
 - Report an issue or submit a change:
   |Github Repo Link|
-- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_ 
+- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_

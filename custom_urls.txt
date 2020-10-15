@@ -40,3 +40,19 @@
 
 .. |Data Window| image:: ./img/sonora/data_window.png
     :width: 400px
+
+.. |data button| image:: ./img/sonora/data_button.png
+    :width: 25
+    :height: 25
+
+.. |upload button| image:: ./img/sonora/upload_button.png
+    :width: 100
+    :height: 30
+
+.. |upload queue| image:: ./img/sonora/upload_queue_notification.png
+    :width: 400
+    :height: 50
+
+.. |upload drag| image:: ./img/sonora/upload_drag.gif
+    :width: 600
+    :height: 350
