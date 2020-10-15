@@ -70,7 +70,6 @@
 
    <a href="https://learning.cyverse.org/projects/dnasubway_guide/en/latest/" target="blank">DNA Subway Guide</a>
 
-
 .. |SciApps| raw:: html
 
    <a href="https://www.sciapps.org/" target="blank">SciApps</a>
@@ -123,7 +122,6 @@
 
    <a href="http://learning.cyverse.org/en/latest/" target="blank">BisQue Guide</a>
 
-
 .. Comment: images
 
 .. |CyVerse_logo| image:: ./img/cyverse_learning.png
@@ -140,6 +138,14 @@
 .. |Intercom| image:: ./img/intercom.png
     :width: 25
     :height: 25
+
+.. |the DE| raw:: html
+
+   <a href="https://sonora.cyverse.org" target="blank">the DE</a>
+
+.. |DE Apps view| raw:: html
+
+   <a href="https://sonora.cyverse.org/apps" target="blank">DE Apps view</a>
 
 .. |DE Login Required| image:: ./img/sonora/login_required.png
     :width: 500px
@@ -161,3 +167,12 @@
 
 .. |Analyses_sharing| image:: ./img/de/sharing_analyses.png
     :width: 500
+
+.. |TAPIS API| raw:: html
+
+   <a href="https://tapis-project.org/" target="blank">TAPIS API</a>
+
+.. |YouTube Channel| raw:: html
+
+   <a href="https://www.youtube.com/c/CyverseOrgProject/" target="blank">YouTube Channel</a>
+
