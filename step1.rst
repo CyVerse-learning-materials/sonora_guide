@@ -18,9 +18,9 @@ start to finish within the DE.
 
 **Some things to remember about the DE**
 
-- Your analyses are not limited by your computer. All computation in the DE runs on CyVerse resources. You can connect
+- Your analyses are not limited by your computer. All computation in the DE runs on CyVerse resources, enabling you to connect
   from your laptop or phone and launch jobs large and small.
-- Once you launch a job it will run until completion. You can logout once a job is launched; by default, you will get an
+- Once you launch a job, it will run until completion. You can logout once a job is launched; you will get an automated
   email notification when the job completes.
 
 ----
@@ -30,7 +30,7 @@ start to finish within the DE.
 
 When you first navigate to |the DE|, you'll be presented with the Dashboard view. This view contains links to news and
 videos related to CyVerse, along with a list of recently added applications that can be used to perform computational
-analyses. You can explore this information as much as you like, but you must log in before you can perform any tasks.
+analyses. We welcome you to explore this information as much as you like, but you must log in before you can perform any tasks.
 
 You may log in by clicking the profile icon in the upper right-hand corner of the DE, or by clicking `SIGN IN` when you
 encounter a message such as this one:
