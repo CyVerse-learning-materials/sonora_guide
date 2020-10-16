@@ -8,7 +8,7 @@
 
 
 
-Discovery Environment Dashboard
+Viewing the Discovery Environment Dashboard
 -------------------------------
 
 The Dashboard provides an overview of recent activity inside CyVerse and the
