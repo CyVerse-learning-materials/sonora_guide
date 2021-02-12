@@ -6,9 +6,9 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-
-**Discovery Environment - Sonora**
-==================================
+**********************************************
+**Discovery Environment 2.0 Platform Guide**
+**********************************************
 
 .. #### Comment: If the platform has an ICON place it here
 
@@ -23,13 +23,13 @@ Goal
 .. toctree::
 	:maxdepth: 2
 
-	Tutorial home <self>
-	Logging into Sonora Discovery Environment <step1.rst>
-	Sonora Discovery Environment Dashboard <step2.rst>
-	Manage Data in the Discovery Environment <step3.rst>
-	Searching in Sonora Discovery Environment <step4.rst>
-	Using Applications in Sonora Discovery Environment <step5.rst>
-	Manage Analysis Status and History in Sonora Discovery Environment <step6.rst>
+	Guide home <self>
+	Logging into the Discovery Environment 2.0 <step1.rst>
+	Discovery Environment 2.0 Dashboard <step2.rst>
+	Manage Data in the Discovery Environment 2.0 <step3.rst>
+	Searching in the Discovery Environment 2.0 <step4.rst>
+	Using Applications in the Discovery Environment 2.0 <step5.rst>
+	Manage Analysis Status and History in the Discovery Environment 2.0 <step6.rst>
 	Final Notes <final_step.rst>
 
 
@@ -51,9 +51,9 @@ Who to contact if this guide needs fixing. You can also email
     * - Maintainer
       - Institution
       - Contact
-    * - Your Name
+    * - Discovery Environment Team
       - CyVerse / UA
-      - Yourname@email.com
+      - `learning@CyVerse.org <learning@CyVerse.org>`_
 
 ----
 
