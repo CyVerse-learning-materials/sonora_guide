@@ -16,10 +16,10 @@ author = 'CyVerse Documentation Team'
 version = '0.1'
 release = '0.1'
 
-epub_title = Discovery Environment 2.0 Platform Guide
-epub_author = Sriram Srinivasan, Ian McEwen, Ashley Ramsey, Sarah Roberts, Paul Sandoval, John Wregglesworth, Tina Lee, and Jason Williams
-epub_publisher = CyVerse
-epub_copyright = 2021
+epub_title = project
+epub_author = author
+epub_publisher = author
+epub_copyright = copyright
 
 # html theme configuration -- see https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
 
