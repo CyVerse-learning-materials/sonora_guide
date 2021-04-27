@@ -11,7 +11,7 @@
 Managing Data in the Discovery Environment
 -------------------------------------------
 
-To manage data in the Discovery Environment, begin by clicking on the Data icon
+The Discovery Environment is connected to the Data Store, allowing you to manage data and directories. To manage data in the Discovery Environment, begin by clicking on the Data icon
 |Data Icon| in the sidebar. You may be prompted to log in. Once logged in, you
 should see your own home directory, in order of folders first, then
 alphabetically.
